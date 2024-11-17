@@ -17,6 +17,11 @@ p {
     font-size: x-large;
 }
 
+button {
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
 .contenedor{
     display: flex;
     justify-content: center;
