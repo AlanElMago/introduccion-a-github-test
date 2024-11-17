@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: lightblue;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
